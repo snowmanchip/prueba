@@ -19,4 +19,5 @@ function valid_email($adress){
 		return false;
 	}
 }
+//Comentario prueba
 ?>
